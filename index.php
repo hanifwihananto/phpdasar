@@ -49,7 +49,7 @@
 
     <!-- Bagian Kiri -->
     <div class="tabel kiri">
-        <table>
+        <table cellpadding="1" cellspacing="0">
             <tr>
                 <th>No</th>
                 <th>Kegiatan</th>
@@ -73,8 +73,7 @@
                 <td>Pertemuan 3</td>
                 <td>
                     <a target="_blank" href="pertemuan3/latihan1.php">latihan1.php</a><br>
-                    <a target="_blank" href="pertemuan3/latihan2.php">latihan2.php</a><br>
-                    <a target="_blank" href="pertemuan3/latihan3.php">latihan3.php</a>
+                    <a target="_blank" href="pertemuan3/latihan2.php">latihan2.php</a>
                 </td>
             </tr>
 
@@ -82,9 +81,8 @@
                 <td>4.</td>
                 <td>Pertemuan 4</td>
                 <td>
-                    <a target="_blank" href="pertemuan4/latihan1.php">latihan1.php</a><br>
-                    <a target="_blank" href="pertemuan4/latihan2.php">latihan2.php</a><br>
-                    <a target="_blank" href="pertemuan4/latihan3.php">latihan3.php</a>
+                    <a target="_blank" href="pertemuan4/date.php">date.php</a><br>
+                    <a target="_blank" href="pertemuan4/function.php">function.php</a>
                 </td>
             </tr>
 
