@@ -20,18 +20,28 @@
 			transform: rotate(360deg);
 			border-radius: 50%;
 		}
+
+		.clear {
+			clear: both;
+		}
 	</style>
 </head>
 
 <body>
 	<?php 
-	$angka = [1,2,3,4,5,6,7,8,9,0];
+	// $angka = [1,2,3,4,5,6,7,8,9,0];
+	$angka = [
+		[1,2,3],
+		[4,5,6],
+		[7,8,9]
+	];
 	 ?>
 
 	<?php foreach ($angka as $ang) : ?>
-	
-	<div class="kotak"><?= $ang; ?></div>
-	
+		<?php foreach($ang as $num) : ?>
+			<div class="kotak"><?= $num; ?></div>
+		<?php endforeach; ?>
+		<div class="clear"></div>
 	<?php endforeach; ?>
 </body>
 </html>
