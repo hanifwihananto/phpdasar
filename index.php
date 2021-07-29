@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,6 +11,7 @@
 
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
         body {
             margin: 0;
             padding: 0;
@@ -28,7 +30,9 @@
             /*border: 1px solid black;*/
         }
 
-        table, th, td {
+        table,
+        th,
+        td {
             border: 1px solid black;
         }
 
@@ -36,10 +40,9 @@
             padding: 10px 50px;
             text-align: center;
         }
-
-
     </style>
 </head>
+
 <body>
     <!-- Header -->
     <header>
@@ -98,13 +101,14 @@
 
 
         </table>
-        
+
     </div>
 
     <!-- Bagian Kanan -->
     <div class="kanan">
-        
+
     </div>
 
 </body>
+
 </html>
