@@ -23,13 +23,13 @@
 				<tr class="warna-baris">
 				<?php else : ?>
 				<tr>
-				<?php endif; ?>
+			<?php endif; ?>
 
 				<?php for ($j = 1; $j <= 5; $j++) : ?>
 					<td><?php echo "$i, $j" ?> </td>
 				<?php endfor; ?>
 				</tr>
-			<?php endfor; ?>
+		<?php endfor; ?>
 	</table>
 	<br>
 
