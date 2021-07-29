@@ -105,7 +105,16 @@
                 <td>
                     <a target="_blank" href="pertemuan6/latihan1.php">latihan1.php</a><br>
                     <a target="_blank" href="pertemuan6/latihan2.php">latihan2.php</a><br>
-                    <a target="_blank" href="pertemuan6/latihan3.php">latihan3.php</a>
+                </td>
+            </tr>
+
+            <tr>
+                <td>7.</td>
+                <td>Pertemuan 7</td>
+                <td>
+                    <a target="_blank" href="pertemuan7/latihan1.php">latihan1.php</a><br>
+                    <a target="_blank" href="pertemuan7/latihan2.php">latihan2.php</a><br>
+                    <a target="_blank" href="pertemuan7/latihan3.php">latihan3.php</a>
                 </td>
             </tr>
 
