@@ -2,9 +2,9 @@
 // Cek apakah tidak ada data di _$GET 
 if (!isset($_GET["nama"]) || 
 	!isset($_GET["nrp"]) || 
-	!isset($_GET["email"] ||
-	!isset($_GET["jurusan"] || 
-	!isset($_GET["gambar"]) )) {
+	!isset($_GET["email"]) ||
+	!isset($_GET["jurusan"]) || 
+	!isset($_GET["gambar"]) ) {
 	// Redirect
 	header("Location: latihan1.php");
 	exit;
