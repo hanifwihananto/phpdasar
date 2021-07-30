@@ -40,6 +40,10 @@
             padding: 10px 50px;
             text-align: center;
         }
+        
+        ul {
+            text-align: left;
+        }
     </style>
 </head>
 
@@ -56,24 +60,40 @@
             <tr>
                 <th>No</th>
                 <th>Kegiatan</th>
+                <th>Materi</th>
                 <th>File</th>
             </tr>
 
             <tr>
                 <td>1.</td>
                 <td>Pertemuan 1</td>
+                <td>
+                    <ul>
+                        <li>Persiapan Lingkungan</li>
+                    </ul>
+                </td>
                 <td><a target="_blank" href="pertemuan1/index.php">index.php</a></td>
             </tr>
 
             <tr>
                 <td>2.</td>
                 <td>Pertemuan 2</td>
+                <td>
+                    <ul>
+                        <li>Sintaks PHP</li>
+                    </ul>
+                </td>
                 <td><a target="_blank" href="pertemuan2/index.php">index.php</a></td>
             </tr>
 
             <tr>
                 <td>3.</td>
                 <td>Pertemuan 3</td>
+                <td>
+                    <ul>
+                        <li>Perluangan</li>
+                    </ul>
+                </td>
                 <td>
                     <a target="_blank" href="pertemuan3/latihan1.php">latihan1.php</a><br>
                     <a target="_blank" href="pertemuan3/latihan2.php">latihan2.php</a>
@@ -84,6 +104,11 @@
                 <td>4.</td>
                 <td>Pertemuan 4</td>
                 <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+                <td>
                     <a target="_blank" href="pertemuan4/date.php">date.php</a><br>
                     <a target="_blank" href="pertemuan4/function.php">function.php</a>
                 </td>
@@ -92,6 +117,11 @@
             <tr>
                 <td>5.</td>
                 <td>Pertemuan 5</td>
+                <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
                 <td>
                     <a target="_blank" href="pertemuan5/latihan1.php">latihan1.php</a><br>
                     <a target="_blank" href="pertemuan5/latihan2.php">latihan2.php</a><br>
@@ -103,6 +133,11 @@
                 <td>6.</td>
                 <td>Pertemuan 6</td>
                 <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+                <td>
                     <a target="_blank" href="pertemuan6/latihan1.php">latihan1.php</a><br>
                     <a target="_blank" href="pertemuan6/latihan2.php">latihan2.php</a><br>
                 </td>
@@ -112,9 +147,18 @@
                 <td>7.</td>
                 <td>Pertemuan 7</td>
                 <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+                <td>
                     <a target="_blank" href="pertemuan7/latihan1.php">latihan1.php</a><br>
                     <a target="_blank" href="pertemuan7/latihan2.php">latihan2.php</a><br>
-                    <a target="_blank" href="pertemuan7/latihan3.php">latihan3.php</a>
+                    <a target="_blank" href="pertemuan7/latihan3.php">latihan3.php</a><br>
+                    <a target="_blank" href="pertemuan7/latihan4.php">latihan4.php</a><br>
+                    <a target="_blank" href="pertemuan7/login/login.php">login.php</a><br>
+                    <a target="_blank" href="pertemuan7/login/admin.php">admin.php</a>
+
                 </td>
             </tr>
 
