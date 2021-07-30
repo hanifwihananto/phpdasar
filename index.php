@@ -105,7 +105,8 @@
                 <td>Pertemuan 4</td>
                 <td>
                     <ul>
-                        <li></li>
+                        <li>Date</li>
+                        <li>Function</li>
                     </ul>
                 </td>
                 <td>
@@ -119,7 +120,8 @@
                 <td>Pertemuan 5</td>
                 <td>
                     <ul>
-                        <li></li>
+                        <li>Array</li>
+                        <li>foreach</li>
                     </ul>
                 </td>
                 <td>
@@ -134,7 +136,7 @@
                 <td>Pertemuan 6</td>
                 <td>
                     <ul>
-                        <li></li>
+                        <li>Array Asosiatif</li>
                     </ul>
                 </td>
                 <td>
@@ -148,7 +150,9 @@
                 <td>Pertemuan 7</td>
                 <td>
                     <ul>
-                        <li></li>
+                        <li>Request Method</li>
+                        <li>$_GET</li>
+                        <li>$_POST</li>
                     </ul>
                 </td>
                 <td>
