@@ -22,11 +22,22 @@
             background-color: skyblue;
             padding: 4px;
             padding-left: 10px;
+            position: fixed;
+            width: 98%;
+            top: 0;
+            margin: auto;
+            border-radius: 20px;
+        }
+
+        .header {
+            display: flex;
+            justify-content: center;
         }
 
         .tabel {
             margin: 50px;
             left: 20px;
+            margin-top: 190px;
             /*border: 1px solid black;*/
         }
 
@@ -49,11 +60,13 @@
 
 <body>
     <!-- Header -->
-    <header>
-        <h1>BELAJAR PHP DASAR</h1>
-        <p>Sumber : YT Web Programming Unpas</p>
-    </header>
-
+    <div class="header">
+        <header>
+            <h1>BELAJAR PHP DASAR</h1>
+            <p>Sumber : YT Web Programming Unpas</p>
+        </header>    
+    </div>
+    
     <!-- Bagian Kiri -->
     <div class="tabel kiri">
         <table cellpadding="1" cellspacing="0">
@@ -166,6 +179,32 @@
                 </td>
             </tr>
 
+            <tr>
+                <td>8.</td>
+                <td>Pertemuan 8</td>
+                <td>
+                    <ul>
+                        <li>Database</li>
+                    </ul>
+                </td>
+                <td>
+                    <a target="_blank" href="../phpmyadmin">phpmyadmin</a>
+                </td>
+            </tr>
+
+            <tr>
+                <td>9.</td>
+                <td>Pertemuan 9</td>
+                <td>
+                    <ul>
+                        <li>PHP + MySQL</li>
+                    </ul>
+                </td>
+                <td>
+                    <a target="_blank" href="pertemuan9/index.php">index.php</a><br>
+                    <a target="_blank" href="pertemuan9/latihan2.php">latihan2.php</a><br>
+                </td>
+            </tr>
 
         </table>
 
