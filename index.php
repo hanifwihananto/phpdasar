@@ -207,6 +207,23 @@
                 </td>
             </tr>
 
+            <tr>
+                <td>10.</td>
+                <td>Pertemuan 10</td>
+                <td>
+                    <ul>
+                        <li>CRUD</li>
+                        <li>INSERT</li>
+                        <li>DELETE</li>
+                    </ul>
+                </td>
+                <td>
+                    <a target="_blank" href="pertemuan10/index.php">index.php</a><br>
+                    <a target="_blank" href="pertemuan10/tambah.php">tambah.php</a><br>
+                    <a target="_blank" href="pertemuan10/functions.php">functions.php</a>
+                </td>
+            </tr>
+
         </table>
 
     </div>
