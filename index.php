@@ -154,7 +154,7 @@
                 </td>
                 <td>
                     <a target="_blank" href="pertemuan6/latihan1.php">latihan1.php</a><br>
-                    <a target="_blank" href="pertemuan6/latihan2.php">latihan2.php</a><br>
+                    <a target="_blank" href="pertemuan6/latihan2.php">latihan2.php</a>
                 </td>
             </tr>
 
@@ -202,7 +202,8 @@
                 </td>
                 <td>
                     <a target="_blank" href="pertemuan9/index.php">index.php</a><br>
-                    <a target="_blank" href="pertemuan9/latihan2.php">latihan2.php</a><br>
+                    <a target="_blank" href="pertemuan9/index2.php">index2.php</a><br>
+                    <a target="_blank" href="pertemuan9/functions.php">functions.php</a>
                 </td>
             </tr>
 
