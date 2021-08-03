@@ -224,6 +224,22 @@
                 </td>
             </tr>
 
+            <tr>
+                <td>11.</td>
+                <td>Pertemuan 11</td>
+                <td>
+                    <ul>
+                        <li>CRUD</li>
+                        <li>UPDATE</li>
+                    </ul>
+                </td>
+                <td>
+                    <a target="_blank" href="pertemuan11/index.php">index.php</a><br>
+                    <a target="_blank" href="pertemuan11/tambah.php">tambah.php</a><br>
+                    <a target="_blank" href="pertemuan11/functions.php">functions.php</a>
+                </td>
+            </tr>
+
         </table>
 
     </div>
