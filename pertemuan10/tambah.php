@@ -3,9 +3,6 @@
 
 	// Cek apakah tombol submit sudah ditekan atau belum 
 	if(isset( $_POST["submit"]) ) {
-		// Ambil data dari tiap elemen dalam form
-		
-
 		// Cek apakah data berasil ditambahkan atau tidak
 		if (tambah($_POST) > 0) {
 			echo "
