@@ -240,6 +240,22 @@
                 </td>
             </tr>
 
+            <tr>
+                <td>12.</td>
+                <td>Pertemuan 12</td>
+                <td>
+                    <ul>
+                        <li>CRUD</li>
+                        <li>SEARCHING</li>
+                    </ul>
+                </td>
+                <td>
+                    <a target="_blank" href="pertemuan12/index.php">index.php</a><br>
+                    <a target="_blank" href="pertemuan12/tambah.php">tambah.php</a><br>
+                    <a target="_blank" href="pertemuan12/functions.php">functions.php</a>
+                </td>
+            </tr>
+
         </table>
 
     </div>
